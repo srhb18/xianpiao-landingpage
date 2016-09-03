@@ -1,0 +1,10 @@
+.svn
+node_modules
+output
+.edpproj/me
+edp-webserver-config.js
+.idea/*
+*.log
+.db.json
+
+.DS_Store
